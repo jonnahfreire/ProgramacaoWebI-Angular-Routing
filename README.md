@@ -1,3 +1,4 @@
-# angular-zkewx6
+# Angular Routing
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-zkewx6)
+Projeto criado para atividade de Programação Web I, 
+do curso de Análise e Desenvolvimento de Sistemas do IFCE - Campus Canindé.
